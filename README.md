@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ujamong
 - 👀 I’m interested in Data Analysis and Marketing
-- 🌱 I’m currently learning SQL, Marketing
+- 🌱 I’m currently learning SQL, Marketing, Python
 - 💞️ I’m looking for a job
 - 📫 How to reach me ...
 
